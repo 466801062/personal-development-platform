@@ -1,0 +1,8 @@
+{
+  "deploy": {
+    "runtime": {
+      "mode": "dynamic",
+      "entrypoint": "main.ts"
+    }
+  }
+}
